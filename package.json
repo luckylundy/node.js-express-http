@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luckylundy/node.js-express-http/issues"
   },
-  "homepage": "https://github.com/luckylundy/node.js-express-http#readme"
+  "homepage": "https://github.com/luckylundy/node.js-express-http#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
